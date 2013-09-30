@@ -1,11 +1,11 @@
-# cloud-to-butt-safari
+# boehner-boner-safari
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
 
 ## Installing
 
-Download [CloudToButt.safariextz.zip](https://github.com/logancollins/cloud-to-butt-safari/blob/master/CloudToButt.safariextz.zip?raw=true)
+Download [BoehnerBoner.safariextz](https://github.com/jtamboli/boehner-boner-safari/blob/master/BoehnerBoner.safariextz?raw=true)
 
 
 ## Building
